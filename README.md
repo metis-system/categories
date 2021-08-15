@@ -1,94 +1,107 @@
-## A. Facts/Concepts
+# A. Facts/Concepts
 
 Include all almanacs, statistics, wow facts about everything, flag books, record books.
 
-### A. Facts
+## A. Facts
 
 Include here books about doing research online and in books.
 
-- **Flags** A FACTS FLAGS
-- **Research** A FACTS RESEARCH
+### **Flags** A FACTS FLAGS
+### **Research** A FACTS RESEARCH
 
-### A. Concepts
+## A. Concepts
 
 General information, perspective, signs, patterns at beginning of sequence
 
-- **Counting** A CONCEPTS 123
-- **Alphabet** A CONCEPTS ABC
-- **Colors** A CONCEPTS COLORS
-- **Calendars** A CONCEPTS MONTHS
-- **Shapes** A CONCEPTS SHAPES
+### **Counting** A CONCEPTS 123
+### **Alphabet** A CONCEPTS ABC
+### **Colors** A CONCEPTS COLORS
+### **Calendars** A CONCEPTS MONTHS
+### **Shapes** A CONCEPTS SHAPES
 
 ## B. Machines
 
-- **Building** B MACHINES BUILDING
+### **Building** B MACHINES BUILDING
 
-- **Computers** B MACHINES COMPUTERS
+### **Computers** B MACHINES COMPUTERS
 
-- **Electricity** B MACHINES ELECTRICITY
+### **Electricity** B MACHINES ELECTRICITY
 
-- **Inventions** B MACHINES INVENTIONS
+### **Inventions** B MACHINES INVENTIONS
 
-- **Military** B MACHINES MILITARY
+### **Military** B MACHINES MILITARY
 
-- **Printing** B MACHINES PRINTING
+### **Printing** B MACHINES PRINTING
 
-- **Robots** B MACHINES ROBOTS
+### **Robots** B MACHINES ROBOTS
 
-- **Transport** B MACHINES TRANSPORT
+### **Transport** B MACHINES TRANSPORT
 
-  1. **Air** B MACHINES TRANSPORT AIR
-  2. **Boats** B MACHINES TRANSPORT BOATS
-  3. **Cars** B MACHINES TRANSPORT CARS
-  4. **Motorcycles** B MACHINES TRANSPORT MOTORCYC
-  5. **Subways** B MACHINES TRANSPORT SUBWAYS
-  6. **Trains** B MACHINES TRANSPORT TRAINS
+- **Air** B MACHINES TRANSPORT AIR
+- **Boats** B MACHINES TRANSPORT BOATS
+- **Cars** B MACHINES TRANSPORT CARS
+- **Motorcycles** B MACHINES TRANSPORT MOTORCYC
+- **Subways** B MACHINES TRANSPORT SUBWAYS
+- **Trains** B MACHINES TRANSPORT TRAINS
 
-## C. Science
+# C. Science
 
-## D. Nature
+### **Discoveries** C SCIENCE DISCOVERIES
+### **Diseases** C SCIENCE DISEASES
+### **Experiments** C SCIENCE EXPERIMENTS
+### **Math** C SCIENCE MATH
+### **Measurement** C SCIENCE MEASUREMENT
+### **Medicine** C SCIENCE MEDICINE
+### **Microscope** C SCIENCE MICROSCOPE
+### **Nuclear** C SCIENCE NUCLEAR
+### **Space** C SCIENCE SPACE
+### **Travel** C SCIENCE SPACE TRAVEL
+### **Time** C SCIENCE TIME
 
-## E. Animals
+# D. Nature
 
-## F. Pets
+# E. Animals
 
-## G. MakingStuff
+# F. Pets
 
-## H. Arts
+# G. MakingStuff
 
-## I. Sports
+# H. Arts
 
-## J. Ourselves
+# I. Sports
 
-## K. Community
+# J. Ourselves
 
-## L. USA (Then & Now)
+# K. Community
 
-## M. Countries (Then & Now)
+# L. USA (Then & Now)
 
-## N. Languages
+# M. Countries (Then & Now)
 
-## O. Traditions
+# N. Languages
 
-## P. Tales
+# O. Traditions
 
-## Q. Verse
+# P. Tales
 
-## R. Humor
+# Q. Verse
 
-## S. Mystery
+# R. Humor
 
-## T. Adventure
+# S. Mystery
 
-## U. Scary
+# T. Adventure
 
-## V. Graphic Novel
+# U. Scary
 
-## W. Memoir
+# V. Graphic Novel
 
-## X. Fiction/Picture stories
+# W. Memoir
 
-## Y. Beginning fiction
+# X. Fiction/Picture stories
 
-## Z. Middle level fiction
+# Y. Beginning fiction
+
+# Z. Middle level fiction
+
 
