@@ -21,6 +21,29 @@ General information, perspective, signs, patterns at beginning of sequence
 
 ## B. Machines
 
+- Building **B MACHINES BUILDING**
+
+- Computers **B MACHINES COMPUTERS**
+
+- Electricity **B MACHINES ELECTRICITY**
+
+- Inventions **B MACHINES INVENTIONS**
+
+- Military **B MACHINES MILITARY**
+
+- Printing **B MACHINES PRINTING**
+
+- Robots **B MACHINES ROBOTS**
+
+- Transport **B MACHINES TRANSPORT**
+
+  1. Air **B MACHINES TRANSPORT AIR**
+  2. Boats **B MACHINES TRANSPORT BOATS**
+  3. Cars **B MACHINES TRANSPORT CARS**
+  4. Motorcycles **B MACHINES TRANSPORT MOTORCYC**
+  5. Subways **B MACHINES TRANSPORT SUBWAYS**
+  6. Trains **B MACHINES TRANSPORT TRAINS**
+
 ## C. Science
 
 ## D. Nature
