@@ -6,43 +6,43 @@ Include all almanacs, statistics, wow facts about everything, flag books, record
 
 Include here books about doing research online and in books.
 
-- Flags **A FACTS FLAGS**
-- Research **A FACTS RESEARCH**
+- **Flags** A FACTS FLAGS
+- **Research** A FACTS RESEARCH
 
 ### A. Concepts
 
 General information, perspective, signs, patterns at beginning of sequence
 
-- Counting **A CONCEPTS 123**
-- Alphabet **A CONCEPTS ABC**
-- Colors **A CONCEPTS COLORS**
-- Calendars **A CONCEPTS MONTHS**
-- Shapes **A CONCEPTS SHAPES**
+- **Counting** A CONCEPTS 123
+- **Alphabet** A CONCEPTS ABC
+- **Colors** A CONCEPTS COLORS
+- **Calendars** A CONCEPTS MONTHS
+- **Shapes** A CONCEPTS SHAPES
 
 ## B. Machines
 
-- Building **B MACHINES BUILDING**
+- **Building** B MACHINES BUILDING
 
-- Computers **B MACHINES COMPUTERS**
+- **Computers** B MACHINES COMPUTERS
 
-- Electricity **B MACHINES ELECTRICITY**
+- **Electricity** B MACHINES ELECTRICITY
 
-- Inventions **B MACHINES INVENTIONS**
+- **Inventions** B MACHINES INVENTIONS
 
-- Military **B MACHINES MILITARY**
+- **Military** B MACHINES MILITARY
 
-- Printing **B MACHINES PRINTING**
+- **Printing** B MACHINES PRINTING
 
-- Robots **B MACHINES ROBOTS**
+- **Robots** B MACHINES ROBOTS
 
-- Transport **B MACHINES TRANSPORT**
+- **Transport** B MACHINES TRANSPORT
 
-  1. Air **B MACHINES TRANSPORT AIR**
-  2. Boats **B MACHINES TRANSPORT BOATS**
-  3. Cars **B MACHINES TRANSPORT CARS**
-  4. Motorcycles **B MACHINES TRANSPORT MOTORCYC**
-  5. Subways **B MACHINES TRANSPORT SUBWAYS**
-  6. Trains **B MACHINES TRANSPORT TRAINS**
+  1. **Air** B MACHINES TRANSPORT AIR
+  2. **Boats** B MACHINES TRANSPORT BOATS
+  3. **Cars** B MACHINES TRANSPORT CARS
+  4. **Motorcycles** B MACHINES TRANSPORT MOTORCYC
+  5. **Subways** B MACHINES TRANSPORT SUBWAYS
+  6. **Trains** B MACHINES TRANSPORT TRAINS
 
 ## C. Science
 
@@ -91,3 +91,4 @@ General information, perspective, signs, patterns at beginning of sequence
 ## Y. Beginning fiction
 
 ## Z. Middle level fiction
+
