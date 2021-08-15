@@ -1,5 +1,24 @@
 ## A. Facts/Concepts
 
+Include all almanacs, statistics, wow facts about everything, flag books, record books.
+
+### A. Facts
+
+Include here books about doing research online and in books.
+
+- Flags **A FACTS FLAGS**
+- Research **A FACTS RESEARCH**
+
+### A. Concepts
+
+General information, perspective, signs, patterns at beginning of sequence
+
+- Counting **A CONCEPTS 123**
+- Alphabet **A CONCEPTS ABC**
+- Colors **A CONCEPTS COLORS**
+- Calendars **A CONCEPTS MONTHS**
+- Shapes **A CONCEPTS SHAPES**
+
 ## B. Machines
 
 ## C. Science
